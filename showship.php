@@ -10,7 +10,7 @@
     body 
     {
   background-color: pink;
-  color: gray;
+  color: black;
   text-align: center;
     }
     </style>
